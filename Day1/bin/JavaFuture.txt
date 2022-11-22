@@ -1,0 +1,3 @@
+1. Platform InDeppendancy:
+      Same code can run into diff platform
+2. Simple    
