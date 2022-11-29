@@ -13,6 +13,12 @@ class casting {
       double m=25.88;
        float n=(float)m;
       System.out.println(n);
+      char ch;
+      ch=258;
+      System.out.println(ch);
+      long f=111l;
+      int g=(int)f;
+      System.out.println(g);
 	}
 
 }
